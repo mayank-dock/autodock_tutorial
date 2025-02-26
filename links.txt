@@ -1,0 +1,2 @@
+https://www.pymol.org/
+https://ccsb.scripps.edu/mgltools/downloads/
